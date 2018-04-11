@@ -1,2 +1,3 @@
 # MyTemp
-A Temp Repo for testing repo clone
+A Temporary Repo for testing repo clone
+
